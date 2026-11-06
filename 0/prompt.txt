@@ -1,0 +1,20 @@
+Proceed with implementation using the approved plan.
+
+Implement one logical component at a time.
+
+For each component:
+1. Write production-quality Python code.
+2. Add automated tests using mocked OpenAI responses.
+3. Run the relevant tests.
+4. Fix failures before moving to the next component.
+5. Explain what was implemented and tested.
+
+Use the existing virtual environment and repository structure.
+
+Do not make live OpenAI API calls until the mocked tests pass.
+
+Do not overwrite or modify the original challenge specifications or sample input files.
+
+Maintain a running implementation checklist and clearly identify incomplete requirements.
+
+Continue through the implementation phases, stopping before any operation requiring credentials, external spending, or irreversible changes.
