@@ -1,0 +1,25 @@
+You are a senior Python engineer implementing the AI Full Stack IT Access Requests challenge.
+
+First, inspect the complete local repository, including:
+
+- CHALLENGE.md
+- Every file under docs/
+- materials/office-policy.md
+- snapshot.schema.json
+- All sample IT access request JSON files
+
+Your task is to build a complete, tested Python application using the OpenAI API.
+
+Before writing code:
+
+1. Summarize the functional and nonfunctional requirements.
+2. Identify all mandatory deliverables.
+3. Explain the office-policy rules and their exact precedence.
+4. Identify the JSON schema requirements.
+5. Propose a maintainable project architecture.
+6. Identify any missing information or ambiguities.
+7. Present a step-by-step implementation plan.
+
+Use the repository files as the source of truth. Do not assume requirements that are not documented.
+
+Do not modify any files yet. Wait for my approval before implementation.
