@@ -1,0 +1,69 @@
+{
+  "cli_version": "0.13.1",
+  "checkpoint_id": "01M70G9P7EAASCG2TWSAA72J71",
+  "strategy": "manual-commit",
+  "branch": "codex-ai-full-stack-it-access-requests",
+  "checkpoints_count": 1,
+  "files_touched": [
+    ".gitignore",
+    "README.md",
+    "access_intake/__init__.py",
+    "access_intake/__main__.py",
+    "access_intake/config.py",
+    "access_intake/evaluation.py",
+    "access_intake/exports.py",
+    "access_intake/policy.py",
+    "access_intake/prompt.txt",
+    "access_intake/providers.py",
+    "access_intake/store.py",
+    "access_intake/validation.py",
+    "access_intake/worker.py",
+    "deliverables/accuracy.md",
+    "deliverables/extractions.jsonl",
+    "deliverables/generations/1d45b337906aa526816cfd30a2851c25ef60a5be022349bb314ff00266eb2004/extractions.jsonl",
+    "deliverables/generations/1d45b337906aa526816cfd30a2851c25ef60a5be022349bb314ff00266eb2004/queue.json",
+    "deliverables/generations/61a7254dd0bea2f4e24cbd15e8de07e02f0ab5989231719818288c751ce04a55/extractions.jsonl",
+    "deliverables/generations/61a7254dd0bea2f4e24cbd15e8de07e02f0ab5989231719818288c751ce04a55/queue.json",
+    "deliverables/manifest.json",
+    "deliverables/queue.json",
+    "deliverables/request-evidence.json",
+    "deliverables/verification.md",
+    "examples/PAR-001.json",
+    "requirements.lock",
+    "tests/__init__.py",
+    "tests/fixtures/expectations.json",
+    "tests/fixtures/mock_responses.json",
+    "tests/test_intake.py"
+  ],
+  "sessions": [
+    {
+      "metadata": "/0/metadata.json",
+      "transcript": "/0/full.jsonl",
+      "compact_transcript": "/0/transcript.jsonl",
+      "content_hash": "/0/content_hash.txt",
+      "prompt": "/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 44815,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 1449728,
+    "output_tokens": 31422,
+    "api_call_count": 25,
+    "subagent_tokens_complete": true
+  },
+  "redaction": {
+    "replacements": 10,
+    "layers": {
+      "betterleaks": 0,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 9,
+      "credentialed_uri": 0,
+      "entropy": 1,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  }
+}
